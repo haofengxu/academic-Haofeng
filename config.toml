@@ -301,7 +301,7 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Reseach"
+  name = "reseach"
   url = "#research"
   weight = 2
 
