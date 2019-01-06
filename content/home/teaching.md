@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-Postgraduate:
+\bf{Postgraduate}:
 
 - 2017-2018: Derivatives and Risk Management, Tutorial leader, Swansea University
 
