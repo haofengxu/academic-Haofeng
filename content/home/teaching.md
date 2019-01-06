@@ -1,5 +1,5 @@
 +++
-# teaching.
+# Teaching
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "teaching"
@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+This is an example of using the *teaching* widget to create your own homepage section.
 
 I am a teaching instructor for the following courses at University X:
 
