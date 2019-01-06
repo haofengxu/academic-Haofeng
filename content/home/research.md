@@ -29,6 +29,6 @@ list_format = 2
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "-1"
+publication_type = "3"
 +++
 
