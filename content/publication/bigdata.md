@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 #publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-#publication_short = "In *ICMEW*"
+publication_short = "*Working Paper*"
 
 # Abstract and optional shortened version.
 abstract = "Our study focuses on the evolution of the European Peer-to-Peer lending firm Bondora, with its implementation of Big Data analytic tools in 2015. Loan selection using Big Data analytics resulted in a superior performance of the overall portfolio, with lower default rates and higher interest rates. This indicates that Big Data utilization optimizes the lender-borrower matching process, and suggests that using an unrefined filter without Big Data analytics results in a sub- optimal loan portfolio. Peer lenders using Big Data analytics achieved improved selection of high-risk loans, but this did not have an impact on the selection of low-risk loans. The financial innovation of Big Data introduction allows non-expert peer lenders to attain improved outcomes, thereby establishing the platform as an attractive destination for capital."
