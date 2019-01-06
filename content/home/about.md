@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Finance"
   institution = "Swansea University"
-  year = 2019
+  year = 2019 (Expected)
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
