@@ -1,4 +1,4 @@
-+++
+
 # Teaching.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
@@ -31,5 +31,4 @@ math = true
 
 - 2016-2017: Microeconomics, Lecturer and Tutor, International College, University of Sheffield
 - 2016-2017: Macroeconomics, Lecturer and Tutor, International College, University of Sheffield
-+++
 
