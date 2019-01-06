@@ -1,6 +1,6 @@
 +++
 title = "40th Intercollegiate Welsh Accounting and Finance Colloquium"
-date = 2017-05-012T00:00:00  # Schedule page publish date.
+date = 2017-05-12T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
