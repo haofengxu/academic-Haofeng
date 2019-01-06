@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 #publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-#publication_short = "In *ICMEW*"
+publication_short = "*Working Paper*"
 
 # Abstract and optional shortened version.
 abstract = "Using data from a leading Chinese Peer-to-Peer (P2P) lending platform from 2012 to 2015, we investigate the role of verification in the P2P lending market. We find that borrowers with thorough and complete verification are more likely to obtain funding and also less likely to default on loans. We also find that borrowers that have incomplete verification are more likely to upwardly misrepresent their income. This leads to higher default rates for this group when compared to the default rates of more thoroughly verified borrowers. The further analysis documents that returning borrowers are more likely to maintain a good credit record. We discuss the implications of our findings for the role of verification in the growing P2P lending sector and the design of a stable financial system."
