@@ -18,8 +18,8 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Finance"
-  institution = "Swansea University"
-  year = 2019 (Expected)
+  institution = "Swansea University, 2019 (Expected)"
+  #year = 2019
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
