@@ -1,6 +1,6 @@
 +++
 title = "Role of Verification in Peer-to-Peer Lending"
-date = 2013-07-01T00:00:00
+date = 2018
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
