@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Financial Innovation",
     "Behavioural Finance",
-    "Corporate Finance"
+    "Corporate Finance",
+    "Data Mining"
   ]
 
 # List your qualifications (such as academic degrees).
