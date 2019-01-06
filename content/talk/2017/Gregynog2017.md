@@ -1,5 +1,5 @@
 +++
-title = "40th Intercollegiate Welsh Accounting and Finance Colloquium"
+title = "$40^{th}$ Intercollegiate Welsh Accounting and Finance Colloquium"
 date = 2017-05-12  # Schedule page publish date.
 draft = false
 
