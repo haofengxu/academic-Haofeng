@@ -15,14 +15,14 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+Postgraduate:
 
-I am a teaching instructor for the following courses at University X:
+- 2017-2018: Derivatives and Risk Management, Swansea University
+- 2017-2019: Quantitative Method in Accounting Research, Course co-ordinator, University of Manchester
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+Undergraduate:
+
+- 2018-2019: Quantitative Method in Accounting, Course co-ordinator, University of Manchester
+- 2014: Financial Reporting (1st year), Tutorial leader, University of Manchester
+- 2014: Principles of Financial Reporting (1st year), Tutorial leader, University of Manchester
+
