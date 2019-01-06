@@ -1,5 +1,5 @@
 +++
-title = "$12^{th}$ Annual Conference - Warsaw International Economic Meeting,"
+title = "$12^{th}$ Annual Conference - Warsaw International Economic Meeting"
 date = 2017-07-05  # Schedule page publish date.
 draft = false
 
