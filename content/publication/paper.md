@@ -37,12 +37,12 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["url_code","FMA Europe"]
+tags = []
 
 # Links (optional).
 url_pdf = "https://rahwebdav.swan.ac.uk/repec/pdf/WP2018-25.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_code = "#"
+#url_code = "#"
 #url_dataset = "#"
 #url_project = ""
 #url_slides = "#"
@@ -52,7 +52,7 @@ url_code = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "FMA Europe 2018", url = "https://www.fma.org/norway"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
