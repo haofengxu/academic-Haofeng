@@ -13,6 +13,8 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
+# Does this page contain LaTeX math? (true/false)
+math = true
 
 +++
 
