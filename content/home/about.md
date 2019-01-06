@@ -36,4 +36,4 @@ weight = 5
 
 # Biography
 
-Haofeng is a doctoral researcher in Finance at Swansea University. He also works as a research assistant at Heriot-Watt University. Prior to that, he worked as a Lecturer and Tutor in International College, University of Sheffield. 
+Haofeng is a doctoral researcher in Finance at Swansea University. He woked as a research assistant at Heriot-Watt University. Prior to that, he worked as a Lecturer and Tutor in International College, University of Sheffield. 
