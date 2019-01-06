@@ -17,18 +17,18 @@ weight = 60
 math = true
 +++
 
-\bf{Postgraduate}:
+Postgraduate:
 
 - 2017-2018: Derivatives and Risk Management, Tutorial leader, Swansea University
 
-\bf{Undergraduate}:
+Undergraduate:
 
 - 2017-2018: Risk Management (3rd year), Tutorial leader, Swansea University
 - 2017-2018: Statistics for Economics (1st year), Tutorial leader, Swansea University
 - 2017-2018: Statistics for Accounting and Finance (1st year), Tutorial leader, Swansea University
 - 2012-2013: Statistical Modelling (2nd year), University of Sheffield
 
-\bf{Pre-Master} and \bf{Foundation}:
+Pre-Master and Foundation:
 
 - 2016-2017: Microeconomics, Lecturer and Tutor, International College, University of Sheffield
 - 2016-2017: Macroeconomics, Lecturer and Tutor, International College, University of Sheffield
