@@ -13,7 +13,6 @@ weight = 5
     "Financial Innovation",
     "Behavioural Finance",
     "Corporate Finance"
-    "Data Mining"
   ]
 
 # List your qualifications (such as academic degrees).
