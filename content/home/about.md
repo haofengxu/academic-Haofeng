@@ -18,23 +18,21 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Finance"
-  institution = "Swansea University, 2019 (Expected)"
+  institution = "Swansea University, UK, 2019 (Expected)"
   #year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Statistics with Financial Mathematics"
+  institution = "University of Sheffield, UK, 2013"
+  #year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Management Science"
+  institution = "Southwestern University of Finance and Economics, China, 2007"
+  #year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Haofeng is a doctoral researcher in Finance at Swansea University. He also works as a research assistant at Heriot-Watt University. Prior to that, he worked as a Lecturer and Tutor in International College, University of Sheffield. 
