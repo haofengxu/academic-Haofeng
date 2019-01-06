@@ -209,7 +209,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -240,7 +240,7 @@ enableGitInfo = false
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    talk_format = 2
+    talk_format = 0
 
   # Social/Academic Networking
   #
