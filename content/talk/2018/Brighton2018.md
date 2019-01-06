@@ -1,6 +1,6 @@
 +++
 title = "$5^{th}$ Young Finance Scholars Conference"
-#date = 2018-06-08  # Schedule page publish date.
+date = 2018-06-08  # Schedule page publish date.
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
