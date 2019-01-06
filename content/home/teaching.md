@@ -13,11 +13,12 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
-
+list_format = 0
 
 +++
-list_format = 0
+
 math = true
+
 \bf{Postgraduate}:
 
 - 2017-2018: Derivatives and Risk Management, Tutorial leader, Swansea University
