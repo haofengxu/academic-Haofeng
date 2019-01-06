@@ -15,9 +15,10 @@ weight = 60
 
 # Does this page contain LaTeX math? (true/false)
 math = true
++++
 
 \bf{Postgraduate}:
-+++
+
 - 2017-2018: Derivatives and Risk Management, Tutorial leader, Swansea University
 
 \bf{Undergraduate}:
